@@ -13,6 +13,8 @@ module.exports = {
         path: `${__dirname}/src/images`,
       },
     },
+    // Learn about https://www.gatsbyjs.org/packages/gatsby-transformer-json/
+    // `gatsby-transformer-json`,
     {
       resolve: `gatsby-plugin-styled-components`,
       options: {
